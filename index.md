@@ -14,7 +14,7 @@ header:
 
 # excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Below are some of the projects I worked on during my time at university.'
 feature_row:
   - image_path: assets/images/star-shooter-screenshot-1-th.png
     alt: "placeholder image 1"
@@ -33,7 +33,7 @@ feature_row:
   - image_path: assets/images/compiler-screenshot-1-th.png
     alt: "placeholder image 3"
     title: "Sample Compiler"
-    excerpt: "A simple compiler designed in order to demonstrate the steps required to convert source code into machine code. Includes a lexer, parser, semantic analyzer, optimizer, and machine code generator."
+    excerpt: "A simple compiler designed in order to demonstrate the steps required to convert source code into machine code. Includes a lexer, parser, semantic analyzer, optimizer, and target code generator."
     url: "projects/compiler/"
     btn_label: "Read More"
     btn_class: "btn--primary"
